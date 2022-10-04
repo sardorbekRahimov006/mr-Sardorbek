@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+#header{
+    max-width: 1416px;
+
+}
+.h2{
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 41px;
+    line-height: 48px;
+    /* identical to box height, or 120% */
+    
+    
+    /* Neutral/Primary */
+    
+    color: #21242B;
+    
+}
+.p{
+    max-width: 482px;
+    text-align: left;
+    margin-right: 920px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 150%;
+    /* or 24px */
+    
+    
+    /* Neutral/Primary */
+    
+    color: #21242B;
+    
+}
+.conteiner{
+    width: 100%;
+    
+}
